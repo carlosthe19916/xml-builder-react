@@ -1569,9 +1569,9 @@
     tippy.js "5.1.2"
 
 "@patternfly/react-icons@^3.14.39", "@patternfly/react-icons@^3.14.42":
-  version "3.14.42"
-  resolved "https://registry.yarnpkg.com/@patternfly/react-icons/-/react-icons-3.14.42.tgz#68782223762754bbaeac0c2368560159d8d6e5d0"
-  integrity sha512-62EZ9k20pO0q63yo4F8kXKscuqY2CfmH7MFjbrvph7kv54pguR05qUFz/zV21nVzk7fXYVkzGhrTEaZYynh/XQ==
+  version "3.15.2"
+  resolved "https://registry.yarnpkg.com/@patternfly/react-icons/-/react-icons-3.15.2.tgz#0fabc590940967249a1f5826c086b270cb616373"
+  integrity sha512-BNzpQ0DyJIavcoQim7xjGcv6p1H2dfN61jv7qyG61cW282qaiJqbqU6atj5gbHEp+dlfXbXyYNZm0QoMOW6VHw==
   dependencies:
     "@fortawesome/free-brands-svg-icons" "^5.8.1"
 
