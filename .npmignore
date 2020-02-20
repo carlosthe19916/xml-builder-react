@@ -2,6 +2,7 @@ build
 dist/**/demos
 dist/**/examples
 dist/**/__snapshots__
+dist/**/__tests__
 dist/**/*.test.js
 dist/**/*.map
 example
